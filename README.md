@@ -1,6 +1,6 @@
 # Hi there, I'm Amit! 👋
 
-I'm a dedicated backend developer with over 2 years of professional experience. I currently work at Republic TV where I develop and maintain backend systems. Previously, I worked with THE INDIAN EXPRESS, which helped me gain a lot of industry insights and experience. Alongside my backend expertise, I have a good grasp of DevOps principles and CMS management, particularly WordPress.
+I'm a dedicated backend developer with over 2 years of professional experience. I currently work at Republic TV where I develop and maintain backend systems. Previously, I worked with THE INDIAN EXPRESS, which helped me gain a lot of industry insights and experience. Alongside my backend expertise, I have a good grasp of DevOps principles and CMS Development, particularly WordPress.
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ I'm a dedicated backend developer with over 2 years of professional experience. 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** PHP, JavaScript (Node.js), SQL
-- **Web Development:** WordPress, Express.js, HTML, CSS
+- **Web Development:** WordPress Plugin Dev, Express.js, HTML, CSS
 - **Databases:** MySQL,MongoDB
 - **DevOps:** Docker, CI/CD, basic Kubernetes
 - **Others:** Git, GitHub, Linux, VS Code, PHPStorm, WebStorm
