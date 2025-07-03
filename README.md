@@ -12,12 +12,12 @@ I'm a dedicated backend developer with over 2 years of professional experience. 
 - ⚡ Fun facts: 
   - I love watching sci-fi movies
   - I enjoy listening to music, especially pop, country, and rock
-  - I'm a fan of Indian rock bands like JAL, Strings, and Reath
+  - I'm a fan of Indian rock bands like The local Train, JAL, Strings, and Reath,and many more...
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** PHP, JavaScript (Node.js), SQL
-- **Web Development:** WordPress Plugin Dev, Express.js, HTML, CSS
+- **Web Development:** WordPress Plugin Dev, Express.js, HTML, Javascript, NestJs
 - **Databases:** MySQL,MongoDB
 - **DevOps:** Docker, CI/CD, basic Kubernetes
 - **Others:** Git, GitHub, Linux, VS Code, PHPStorm, WebStorm
